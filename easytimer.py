@@ -34,7 +34,7 @@ try:
 except NameError:
     print('***********************************************************************')
     print('********* You may be running wrong python version in terminal *********')
-    print('*********          Try sudo python3 ./simpletimer.py          *********')
+    print('*********           Try sudo python3 ./easytimer.py           *********')
     print('********* You may be running wrong python version in terminal *********')
     print('***********************************************************************')
     print('\nIncorrect entry, cancelling script: ', newScript)
